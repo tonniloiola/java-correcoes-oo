@@ -1,0 +1,1 @@
+Feito correções no código usando o paradigma de Orientação a Objetos.
